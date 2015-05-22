@@ -2,6 +2,8 @@
 
 ## cacheSolve function calls functions stored in the special "matrix" returned by makeCacheMatrix
 
+## trying my best
+
 makeCacheMatrix <- function(x = matrix()) {
   m<-NULL
   set<-function(y){
